@@ -1,0 +1,1 @@
+project capstone day 1 idea
